@@ -1,2 +1,2 @@
-Este es la segunda versión del archivo. 
-Esto es para el curso de Git y GitHub
+Este es la tercera versión del archivo. 
+Esto es para el curso de Git y GitHub.
